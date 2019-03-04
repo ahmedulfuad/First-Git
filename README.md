@@ -53,4 +53,4 @@ I write some gitbash code for the beginners.
 	at first, see the branch list
 	- $ git fetch origin
 	then switch
-	- $ git checkout <branch-name>
+	- $ git checkout branch-name
