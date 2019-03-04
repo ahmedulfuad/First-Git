@@ -47,7 +47,7 @@ I write some gitbash code for the beginners.
 15. download git from another branch
 	suppose another branch name is secondary
 	- $ git clone http://.........-git -b secondary
-	;then close the gitbash window and enter the downloaded folder and do its addition, correction & etc.
+	;then close the gitbash window and enter the downloaded folder and do its addition, correction & etc. by opening gitbash window
 	
 16. to switch master branch to another branch
 	at first, see the branch list
