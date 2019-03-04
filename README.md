@@ -37,11 +37,11 @@ I write some gitbash code for the beginners.
 	- $ git status
 	- $ git add README.md
 	- $ git commit -m "updated"
-	then see the changes
+	;then see the changes
 	- $ git log
-	to update the file from pc to git
+	;to update the file from pc to git
 	- $ git pull origin master
-	then add updated file to git
+	;then add updated file to git
 	- $ git push origin master
 	
 15. download git from another branch
