@@ -29,8 +29,14 @@ I write some gitbash code for the beginners.
 12. to see the comment  and its time
 	- $ git log
 
-13. to download the code from git
+13. to download the code from git 
 	- $ git clone http://............
+	;then copy all files to downloaded folder and select the path
+	- $ cd Cloned_Folder/
+	- $ git status
+	- $ git commit -m 'updated'
+	- $ git add .
+	- $ git push
 	
 14. after update any file in pc we have to check the status then add it and recomment it.
 	suppose the file name is README.md
