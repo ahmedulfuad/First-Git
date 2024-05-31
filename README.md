@@ -1,4 +1,4 @@
-# firstgit
+# First-Git
 Store this only for testing.
 I write some gitbash code for the beginners.
 
